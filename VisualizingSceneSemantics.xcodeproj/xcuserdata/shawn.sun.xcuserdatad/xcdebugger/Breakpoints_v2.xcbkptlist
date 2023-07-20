@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C924B1DB-DF3B-4DEC-89F0-D0F3C43300A9"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "228E02FF-61EC-4A71-9778-E5162A00AD21"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VisualizingSceneSemantics/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "120"
+            endingLineNumber = "120"
+            landmarkName = "handleTap(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "228E02FF-61EC-4A71-9778-E5162A00AD21 - 38f6a411c35d091f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Scene_Semantics.ViewController.handleTap(__C.UITapGestureRecognizer) -&gt; ()"
+                  moduleName = "Scene Semantics"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shawn.sun/Downloads/VisualizingAndInteractingWithAReconstructedScene/VisualizingSceneSemantics/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "684">
+               </Location>
+               <Location
+                  uuid = "228E02FF-61EC-4A71-9778-E5162A00AD21 - 38f6a411c35d091f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Scene_Semantics.ViewController.handleTap(__C.UITapGestureRecognizer) -&gt; ()"
+                  moduleName = "Scene Semantics"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shawn.sun/Downloads/VisualizingAndInteractingWithAReconstructedScene/VisualizingSceneSemantics/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "696">
+               </Location>
+               <Location
+                  uuid = "228E02FF-61EC-4A71-9778-E5162A00AD21 - 38f6a411c35d091f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Scene_Semantics.ViewController.handleTap(__C.UITapGestureRecognizer) -&gt; ()"
+                  moduleName = "Scene Semantics"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shawn.sun/Downloads/VisualizingAndInteractingWithAReconstructedScene/VisualizingSceneSemantics/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "708">
+               </Location>
+               <Location
+                  uuid = "228E02FF-61EC-4A71-9778-E5162A00AD21 - 2bb26d5bd29849f3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Measure_Poc.ViewController.handleTap(__C.UITapGestureRecognizer) -&gt; ()"
+                  moduleName = "Measure Poc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shawn.sun/Documents/GitHub/westjet-ios/westjet-imaging-swift/VisualizingSceneSemantics/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "708">
+               </Location>
+               <Location
+                  uuid = "228E02FF-61EC-4A71-9778-E5162A00AD21 - 2bb26d5bd29849f3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Measure_Poc.ViewController.handleTap(__C.UITapGestureRecognizer) -&gt; ()"
+                  moduleName = "Measure Poc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shawn.sun/Documents/GitHub/westjet-ios/westjet-imaging-swift/VisualizingSceneSemantics/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "712">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BFCB1EB5-739D-4898-8D82-79A0F5C2D589"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VisualizingSceneSemantics/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "221"
+            endingLineNumber = "221"
+            landmarkName = "session(_:didFailWithError:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BFCB1EB5-739D-4898-8D82-79A0F5C2D589 - af2a35a6e76e1463"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Measure_Poc.ViewController.session(_: __C.ARSession, didFailWithError: Swift.Error) -&gt; ()"
+                  moduleName = "Measure Poc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shawn.sun/Documents/GitHub/westjet-ios/westjet-imaging-swift/VisualizingSceneSemantics/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "262"
+                  endingLineNumber = "262"
+                  offsetFromSymbolStart = "1072">
+               </Location>
+               <Location
+                  uuid = "BFCB1EB5-739D-4898-8D82-79A0F5C2D589 - 3c1aa5fe8e8b9345"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.String&gt;) -&gt; Swift.Optional&lt;Swift.String&gt; in Measure_Poc.ViewController.session(_: __C.ARSession, didFailWithError: Swift.Error) -&gt; ()"
+                  moduleName = "Measure Poc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shawn.sun/Documents/GitHub/westjet-ios/westjet-imaging-swift/VisualizingSceneSemantics/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "262"
+                  endingLineNumber = "262"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F58D47D5-555A-4F94-BB9D-C5E47722C6EA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VisualizingSceneSemantics/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "226"
+            endingLineNumber = "226"
+            landmarkName = "session(_:didFailWithError:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F58D47D5-555A-4F94-BB9D-C5E47722C6EA - 7add361c1a8c1d15"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Scene_Semantics.ViewController.nearbyFaceWithClassification(to: Swift.SIMD3&lt;Swift.Float&gt;, completionBlock: (Swift.Optional&lt;Swift.SIMD3&lt;Swift.Float&gt;&gt;, __C.ARMeshClassification) -&gt; ()) -&gt; ()"
+                  moduleName = "Scene Semantics"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shawn.sun/Downloads/VisualizingAndInteractingWithAReconstructedScene/VisualizingSceneSemantics/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "168"
+                  endingLineNumber = "168"
+                  offsetFromSymbolStart = "836">
+               </Location>
+               <Location
+                  uuid = "F58D47D5-555A-4F94-BB9D-C5E47722C6EA - dc9e4b7eab0e1a93"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.ARAnchor) -&gt; Swift.Optional&lt;__C.ARMeshAnchor&gt; in Scene_Semantics.ViewController.nearbyFaceWithClassification(to: Swift.SIMD3&lt;Swift.Float&gt;, completionBlock: (Swift.Optional&lt;Swift.SIMD3&lt;Swift.Float&gt;&gt;, __C.ARMeshClassification) -&gt; ()) -&gt; ()"
+                  moduleName = "Scene Semantics"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shawn.sun/Downloads/VisualizingAndInteractingWithAReconstructedScene/VisualizingSceneSemantics/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "168"
+                  endingLineNumber = "168"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "F58D47D5-555A-4F94-BB9D-C5E47722C6EA - 933f1f7b9e7b06ee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 () -&gt; () in Scene_Semantics.ViewController.nearbyFaceWithClassification(to: Swift.SIMD3&lt;Swift.Float&gt;, completionBlock: (Swift.Optional&lt;Swift.SIMD3&lt;Swift.Float&gt;&gt;, __C.ARMeshClassification) -&gt; ()) -&gt; ()"
+                  moduleName = "Scene Semantics"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shawn.sun/Downloads/VisualizingAndInteractingWithAReconstructedScene/VisualizingSceneSemantics/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "168"
+                  endingLineNumber = "168"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "F58D47D5-555A-4F94-BB9D-C5E47722C6EA - e57c1889de1efdde"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.UIAlertAction) -&gt; () in closure #2 @Swift.MainActor () -&gt; () in Measure_Poc.ViewController.session(_: __C.ARSession, didFailWithError: Swift.Error) -&gt; ()"
+                  moduleName = "Measure Poc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shawn.sun/Documents/GitHub/westjet-ios/westjet-imaging-swift/VisualizingSceneSemantics/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "267"
+                  endingLineNumber = "267"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "89BE88F4-8AF3-4A4E-88E2-92625A907D4E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VisualizingSceneSemantics/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "230"
+            endingLineNumber = "230"
+            landmarkName = "session(_:didFailWithError:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "89BE88F4-8AF3-4A4E-88E2-92625A907D4E - 7add361c1a8c22ae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Scene_Semantics.ViewController.nearbyFaceWithClassification(to: Swift.SIMD3&lt;Swift.Float&gt;, completionBlock: (Swift.Optional&lt;Swift.SIMD3&lt;Swift.Float&gt;&gt;, __C.ARMeshClassification) -&gt; ()) -&gt; ()"
+                  moduleName = "Scene Semantics"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shawn.sun/Downloads/VisualizingAndInteractingWithAReconstructedScene/VisualizingSceneSemantics/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "173"
+                  endingLineNumber = "173"
+                  offsetFromSymbolStart = "1164">
+               </Location>
+               <Location
+                  uuid = "89BE88F4-8AF3-4A4E-88E2-92625A907D4E - 365a66aa45090a2a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (__C.ARMeshAnchor) -&gt; Swift.Bool in Scene_Semantics.ViewController.nearbyFaceWithClassification(to: Swift.SIMD3&lt;Swift.Float&gt;, completionBlock: (Swift.Optional&lt;Swift.SIMD3&lt;Swift.Float&gt;&gt;, __C.ARMeshClassification) -&gt; ()) -&gt; ()"
+                  moduleName = "Scene Semantics"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shawn.sun/Downloads/VisualizingAndInteractingWithAReconstructedScene/VisualizingSceneSemantics/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "173"
+                  endingLineNumber = "173"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5B46FB55-B01F-4363-ADAC-3C58A5297B33"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VisualizingSceneSemantics/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "236"
+            endingLineNumber = "236"
+            landmarkName = "model(for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "03181809-127C-430C-A647-2E89969F14D4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VisualizingSceneSemantics/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "244"
+            endingLineNumber = "244"
+            landmarkName = "model(for:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "03181809-127C-430C-A647-2E89969F14D4 - 606fc05347783a02"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Scene_Semantics.ViewController.session(_: __C.ARSession, didFailWithError: Swift.Error) -&gt; ()"
+                  moduleName = "Scene Semantics"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shawn.sun/Downloads/VisualizingAndInteractingWithAReconstructedScene/VisualizingSceneSemantics/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "213"
+                  endingLineNumber = "213"
+                  offsetFromSymbolStart = "512">
+               </Location>
+               <Location
+                  uuid = "03181809-127C-430C-A647-2E89969F14D4 - 933f1f7b9e7b3aef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 () -&gt; () in Scene_Semantics.ViewController.nearbyFaceWithClassification(to: Swift.SIMD3&lt;Swift.Float&gt;, completionBlock: (Swift.Optional&lt;Swift.SIMD3&lt;Swift.Float&gt;&gt;, __C.ARMeshClassification) -&gt; ()) -&gt; ()"
+                  moduleName = "Scene Semantics"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shawn.sun/Downloads/VisualizingAndInteractingWithAReconstructedScene/VisualizingSceneSemantics/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "199"
+                  endingLineNumber = "199"
+                  offsetFromSymbolStart = "2748">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2B6B8F43-E8FE-4D3E-B2F0-8661C4A9B9D5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VisualizingSceneSemantics/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "237"
+            endingLineNumber = "237"
+            landmarkName = "model(for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6244CDAA-D5E5-49E3-A28F-2FD18C601595"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VisualizingSceneSemantics/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "251"
+            endingLineNumber = "251"
+            landmarkName = "model(for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A4A30CC0-3329-448C-958E-0B7F4A23D758"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VisualizingSceneSemantics/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "151"
+            endingLineNumber = "151"
+            landmarkName = "toggleMeshButtonPressed(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6A959729-8CEF-48C6-97C3-FA6CDB40D11D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VisualizingSceneSemantics/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "179"
+            endingLineNumber = "179"
+            landmarkName = "nearbyFaceWithClassification(to:completionBlock:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E06DF39F-76C8-4D72-BF5F-0AC7E11B885C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VisualizingSceneSemantics/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "178"
+            endingLineNumber = "178"
+            landmarkName = "nearbyFaceWithClassification(to:completionBlock:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E06DF39F-76C8-4D72-BF5F-0AC7E11B885C - f3141b25d2a3662b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Optional&lt;Swift.SIMD3&lt;Swift.Float&gt;&gt;, __C.ARMeshClassification, Swift.Optional&lt;__C.ARMeshAnchor&gt;) -&gt; () in Scene_Semantics.ViewController.handleTap(__C.UITapGestureRecognizer) -&gt; ()"
+                  moduleName = "Scene Semantics"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shawn.sun/Downloads/VisualizingAndInteractingWithAReconstructedScene/VisualizingSceneSemantics/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "176"
+                  endingLineNumber = "176"
+                  offsetFromSymbolStart = "11376">
+               </Location>
+               <Location
+                  uuid = "E06DF39F-76C8-4D72-BF5F-0AC7E11B885C - f3141b25d2a3662b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Optional&lt;Swift.SIMD3&lt;Swift.Float&gt;&gt;, __C.ARMeshClassification, Swift.Optional&lt;__C.ARMeshAnchor&gt;) -&gt; () in Scene_Semantics.ViewController.handleTap(__C.UITapGestureRecognizer) -&gt; ()"
+                  moduleName = "Scene Semantics"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shawn.sun/Downloads/VisualizingAndInteractingWithAReconstructedScene/VisualizingSceneSemantics/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "176"
+                  endingLineNumber = "176"
+                  offsetFromSymbolStart = "9492">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E67B245E-AA42-4093-BB5E-5D66ABE98737"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VisualizingSceneSemantics/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "115"
+            endingLineNumber = "115"
+            landmarkName = "handleTap(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E67B245E-AA42-4093-BB5E-5D66ABE98737 - 2bb26d5bd2984916"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Measure_Poc.ViewController.handleTap(__C.UITapGestureRecognizer) -&gt; ()"
+                  moduleName = "Measure Poc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shawn.sun/Documents/GitHub/westjet-ios/westjet-imaging-swift/VisualizingSceneSemantics/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "E67B245E-AA42-4093-BB5E-5D66ABE98737 - 2bb26d5bd2984916"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Measure_Poc.ViewController.handleTap(__C.UITapGestureRecognizer) -&gt; ()"
+                  moduleName = "Measure Poc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shawn.sun/Documents/GitHub/westjet-ios/westjet-imaging-swift/VisualizingSceneSemantics/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "196">
+               </Location>
+               <Location
+                  uuid = "E67B245E-AA42-4093-BB5E-5D66ABE98737 - 2bb26d5bd2984916"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Measure_Poc.ViewController.handleTap(__C.UITapGestureRecognizer) -&gt; ()"
+                  moduleName = "Measure Poc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shawn.sun/Documents/GitHub/westjet-ios/westjet-imaging-swift/VisualizingSceneSemantics/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "E67B245E-AA42-4093-BB5E-5D66ABE98737 - 2bb26d5bd2984916"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Measure_Poc.ViewController.handleTap(__C.UITapGestureRecognizer) -&gt; ()"
+                  moduleName = "Measure Poc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shawn.sun/Documents/GitHub/westjet-ios/westjet-imaging-swift/VisualizingSceneSemantics/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "200">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "47C60049-343A-41EE-B2DF-54E15F38CA8D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VisualizingSceneSemantics/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "119"
+            endingLineNumber = "119"
+            landmarkName = "handleTap(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "47C60049-343A-41EE-B2DF-54E15F38CA8D - 2bb26d5bd2984992"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Measure_Poc.ViewController.handleTap(__C.UITapGestureRecognizer) -&gt; ()"
+                  moduleName = "Measure Poc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shawn.sun/Documents/GitHub/westjet-ios/westjet-imaging-swift/VisualizingSceneSemantics/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "628">
+               </Location>
+               <Location
+                  uuid = "47C60049-343A-41EE-B2DF-54E15F38CA8D - 2bb26d5bd2984992"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Measure_Poc.ViewController.handleTap(__C.UITapGestureRecognizer) -&gt; ()"
+                  moduleName = "Measure Poc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shawn.sun/Documents/GitHub/westjet-ios/westjet-imaging-swift/VisualizingSceneSemantics/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "632">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EB0D1D67-9D7D-45CB-A9F7-35495E6DA0CC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VisualizingSceneSemantics/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "172"
+            endingLineNumber = "172"
+            landmarkName = "nearbyFaceWithClassification(to:completionBlock:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2AF564E9-4C76-4B99-AC81-E6F598E12299"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VisualizingSceneSemantics/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "187"
+            endingLineNumber = "187"
+            landmarkName = "nearbyFaceWithClassification(to:completionBlock:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "02FA40A5-41D7-496B-9935-5D7044E3C075"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VisualizingSceneSemantics/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "188"
+            endingLineNumber = "188"
+            landmarkName = "nearbyFaceWithClassification(to:completionBlock:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "98D86006-7D7D-40C5-8F6F-69BDB93E13D8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VisualizingSceneSemantics/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "190"
+            endingLineNumber = "190"
+            landmarkName = "nearbyFaceWithClassification(to:completionBlock:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4BFE26D8-41F7-4CDA-A47F-754553D5793C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VisualizingSceneSemantics/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "193"
+            endingLineNumber = "193"
+            landmarkName = "nearbyFaceWithClassification(to:completionBlock:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4BFE26D8-41F7-4CDA-A47F-754553D5793C - 6e436ab8572c43b8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 () -&gt; () in Measure_Poc.ViewController.nearbyFaceWithClassification(to: Swift.SIMD3&lt;Swift.Float&gt;, completionBlock: (Swift.Optional&lt;Swift.SIMD3&lt;Swift.Float&gt;&gt;, __C.ARMeshClassification, Swift.Optional&lt;__C.ARMeshAnchor&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Measure Poc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shawn.sun/Documents/GitHub/westjet-ios/westjet-imaging-swift/VisualizingSceneSemantics/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "232"
+                  endingLineNumber = "232"
+                  offsetFromSymbolStart = "2796">
+               </Location>
+               <Location
+                  uuid = "4BFE26D8-41F7-4CDA-A47F-754553D5793C - 6e436ab8572c43b8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 () -&gt; () in Measure_Poc.ViewController.nearbyFaceWithClassification(to: Swift.SIMD3&lt;Swift.Float&gt;, completionBlock: (Swift.Optional&lt;Swift.SIMD3&lt;Swift.Float&gt;&gt;, __C.ARMeshClassification, Swift.Optional&lt;__C.ARMeshAnchor&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Measure Poc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shawn.sun/Documents/GitHub/westjet-ios/westjet-imaging-swift/VisualizingSceneSemantics/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "232"
+                  endingLineNumber = "232"
+                  offsetFromSymbolStart = "868">
+               </Location>
+               <Location
+                  uuid = "4BFE26D8-41F7-4CDA-A47F-754553D5793C - 6e436ab8572c43b8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 () -&gt; () in Measure_Poc.ViewController.nearbyFaceWithClassification(to: Swift.SIMD3&lt;Swift.Float&gt;, completionBlock: (Swift.Optional&lt;Swift.SIMD3&lt;Swift.Float&gt;&gt;, __C.ARMeshClassification, Swift.Optional&lt;__C.ARMeshAnchor&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Measure Poc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shawn.sun/Documents/GitHub/westjet-ios/westjet-imaging-swift/VisualizingSceneSemantics/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "232"
+                  endingLineNumber = "232"
+                  offsetFromSymbolStart = "904">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
